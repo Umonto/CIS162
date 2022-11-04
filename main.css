@@ -1,0 +1,15 @@
+body {background-color:cyan;
+       font-family: segoe, fantasy, sans-serif;}
+
+header {background-color:grey;
+		}
+h1,h2{color:brown;}
+nav> ul {line-height:2em;
+	list-style-type: none;
+	padding-left:5px;} 
+	
+section {background-color:magenta;
+		 width:75%;
+		font-size: 1.2em;}
+		 
+footer {background-color:pink;}
